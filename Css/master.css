@@ -1,0 +1,182 @@
+header{
+    background-color: #3d4a59;
+    border-radius: 70px 70px 70px 70px;
+    padding: 40px;
+    margin: -7px 0px 10px;
+}
+h1{
+    text-align: center;
+    color: gainsboro;
+    margin-top: -25px;
+    font-family: anton;
+    font-size: 50px;
+    font-weight: bold;
+}
+nav{
+    margin-top: 70px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    font-family: anton;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.mode{
+    color: black;
+    font-weight: bold;
+}
+ul a{
+    text-decoration: none;
+    color: coral;
+    font-weight: bold;
+}
+.mode:hover{
+    font-size: larger;
+    color: gold;
+}
+ul a:hover{
+    font-size: larger;
+    color: gold;
+}
+.one{
+    padding: 10px;
+    background-color: cornsilk;
+    margin-bottom: 10px;
+    border-radius: 50px;
+}
+h2{
+    text-align: center;
+    font-family: jomhuria;
+    font-size: 80px;
+    font-weight: bold;
+    background-color: salmon;
+    border-radius: 17px;
+    width: 60%;
+    margin: 20px auto 0;
+    padding: 20px;
+    color: midnightblue;
+}
+.right-section p{
+    font-family: anton;
+    font-size: 50px;
+    font-weight: bold;
+    color: midnightblue;
+}
+.left-section p{
+    font-family: jomhuria;
+    font-size: 80px;
+    font-weight: 400;
+    font-weight: bold;
+    color: midnightblue;
+}
+.flex{
+    display: flex;
+    direction: rtl;
+    width: 90%;
+    margin: 20px auto;
+}
+.left-section{
+    text-align: center;
+    margin: -5px auto 0px 10px;
+    font-size: larger;
+    color: #fff;
+}
+.right-section{
+    text-align: center;
+    font-size: larger;
+    margin: auto 20px ;
+    color: #fff;
+}
+.two{
+    padding: 10px;
+    background-color: grey;
+    border-radius: 50px;
+}
+dt{
+    text-align: center;
+    font-family: anton;
+    font-size: 50px;
+    font-weight: bold;
+}
+dd{
+    text-align: center;
+    font-family: anton;
+    font-size: 40px;
+    font-weight: bold;
+}
+.three{
+    margin: 10px;
+    color: darkkhaki;
+}
+.four{
+    margin: 10px;
+    color: darkseagreen;
+}
+.five{
+    margin: 10px;
+    color: coral;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: midnightblue;
+    border-radius: 30px;
+}
+.seven p{
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 30px;
+    color: snow;
+}
+.seven a{
+    text-decoration: none;
+    color: white;
+    font-family: arial;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 5px;
+    padding: 20px;
+    color: lightcoral
+}
+.seven a:hover{
+    font-size: 35px;
+    color: gold;
+}
+h3{
+    font-family: jomhuria;
+    font-size: 80px;
+    font-weight: bold;
+    color:midnightblue
+}
+.my-img{
+    border-radius: 30%; 
+    width: 300px;
+}
+.js{
+    display: block;
+    margin: 10px auto;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color:#fff;
+    background-color: brown;
+    border: none;
+}
+.js:hover{
+    font-size: larger;
+    font-style: italic;
+    border-radius: 50%;
+    border: black 3px solid;
+    outline: black 3px solid;
+}
+.fff{
+    text-decoration: none;
+}
